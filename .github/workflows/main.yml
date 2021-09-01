@@ -38,4 +38,4 @@ jobs:
     - name: Connect to your RDP CPU 8 Core - 32GB Ram - 255 SSD.
       run: cmd /c NGROK-CHECK.bat
     - name: All Done! You can close Tab now! Maximum VM time:60h.
-      run: cmd /c loop.bat
+      run: cmd /c loop.ps1
